@@ -1,7 +1,7 @@
 # 🎓 Student Management System (Java) – Lab Assignment 2
 
 ## 📌 Overview
-This project is a **Java-based Student Management System** developed as part of **Java Lab Assignment 2** at Netaji Subhas University of Technology (NSUT), Delhi.  
+  
 It demonstrates advanced **Object-Oriented Programming (OOP)** principles including **inheritance, polymorphism, abstract classes, interfaces, and modular design**.
 
 ---
