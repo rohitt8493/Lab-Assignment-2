@@ -13,7 +13,6 @@ abstract class Person {
     public abstract void displayInfo();
 }
 
-
 class Student extends Person {
     private int rollNo;
     private String course;
